@@ -1,3 +1,1 @@
-/* Task 1 */
-
-/* Put your code here */
+console.log(Number(process.argv[1])+Number(process.argv[3]),Number(process.argv[2])+Number(process.argv[4]));
